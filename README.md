@@ -151,9 +151,9 @@ The following Python libraries are required:
    - Leave the emulator and Tool Box windows open.
 3. **Run the Bot**:
    - Open a command prompt or PowerShell.
-   - Navigate to `C:\GameBot\single-player\`:
+   - Navigate to `C:\GameBot\PythonAPI\`:
      ```bash
-     cd C:\GameBot\single-player
+     cd C:\GameBot\PythonAPI
      ```
    - Activate the virtual environment (if used):
      ```bash
