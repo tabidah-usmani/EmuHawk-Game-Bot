@@ -189,9 +189,9 @@ The following Python libraries are required:
    - Leave the emulator and Tool Box open.
 3. **Run Two Bots**:
    - Open two command prompt or PowerShell windows.
-   - Navigate to `C:\GameBot\two-players\` in both:
+   - Navigate to `C:\GameBot\PythonAPIA\` in both:
      ```bash
-     cd C:\GameBot\two-players
+     cd C:\GameBot\PythonAPI
      ```
    - Activate the virtual environment in both (if used):
      ```bash
